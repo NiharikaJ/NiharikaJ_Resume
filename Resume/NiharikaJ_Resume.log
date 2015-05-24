@@ -708,42 +708,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--150
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 152--154
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 152--155
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
-
- []
-
-
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 155--157
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 157--159
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
 
  []
 
@@ -764,7 +759,7 @@ Here is how much of TeX's memory you used:
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/palatino/uplr8a.pfb>
-Output written on NiharikaJ_Resume.pdf (2 pages, 68752 bytes).
+Output written on NiharikaJ_Resume.pdf (2 pages, 68825 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
