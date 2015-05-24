@@ -1,0 +1,100 @@
+\documentclass[a4paper,10pt]{article}
+%-----------------------------------------------------------
+\usepackage[top=0.75in, bottom=0.75in, left=0.55in, right=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{Calibri}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.75}
+\textheight=9.75in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%------------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+\hspace{0.5cm}\\[-0.2cm]
+\begin{flushright}
+\large
+\textbf{Niharika Jayanthi} \\
+\includegraphics[width = 30mm]{NJ.jpeg}
+\end{flushright}
+
+\indent \resheading{\textbf{CONTACT INFORMATION} }\\[\lsep]
+\\ \\
+
+\indent\begin{tabular}{@{}p{3.5in}p{3.5in}}
+23/A HP Nagar East, &  {Phone No.:} +91 9167073228 \\ 
+Chembur, Vashinaka,	&  {Email-id:} niharika\_jayanthi@yahoo.co.in \\
+Mumbai- 400074   \\
+\end{tabular}
+
+\indent\resheading{\textbf{CAREER OBJECTIVE} }\\[\lsep]
+\\ \\
+
+\indent\resheading{\textbf{EDUCATION} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{PROJECTS} }\\[\lsep]
+\\ \\
+
+
+\resheading{\textbf{TRAINING AND INTERNSHIP} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{RESEARCH PUBLICATIONS} }\\[\lsep]
+\\ \\
+
+
+\resheading{\textbf{TECHNICAL SKILLS} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{SOFT SKILLS} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{EXTRA CURRICULAR ACTIVITIES} }\\[\lsep]
+\\ \\
+
+
+
+\resheading{\textbf{CO-CURRICULAR ACTIVITIES} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{PERSONAL INFORMATION} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{REFERENCE} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{DECLARATION} }\\[\lsep]
+\\ \\
+
+\resheading{\textbf{DATE} }\\[\lsep]
+\\ \\
+
+\end{document}
+
